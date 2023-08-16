@@ -1,0 +1,23 @@
+.language-list-item{
+    margin: 10px;
+}
+.language-item{
+    cursor: pointer;
+    border-width: 0;
+    background-color: transparent;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    color:#000000;
+    padding-left: 13px;
+    padding-right: 13px;
+    height: 30px;
+}
+.active-language-item{
+    color: #0284c7;
+    border-color: #0284c7;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 18px;
+ 
+}
